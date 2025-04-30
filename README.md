@@ -28,7 +28,7 @@ This will create a directory called `myhubot` in the current working directory.
 npx hubot --create myhubot --adapter @hubot-friends/hubot-slack
 npx hubot --create myhubot --adapter @hubot-friends/hubot-discord
 npx hubot --create myhubot --adapter @hubot-friends/hubot-ms-teams
-npx hubot --create myhubot --adapter @hubot-friends/hubot-irc
+npx hubot --create my hubot --adapter @hubot-friends/hubot-irc
 ```
 
 Review `scripts/example.mjs`. Create more scripts in the `scripts` folder.
@@ -51,4 +51,4 @@ See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
 [Automating Inefficiencies](https://zachholman.com/2011/01/automating-inefficiencies/)
 
-[Getting Started with Hubot](https://www.youtube.com/watch?v=A7fh6RIzGrw)
+[Getting Started with Hubot](https://www.youtube.com/watch?v=A7fh6RIzGrw )
